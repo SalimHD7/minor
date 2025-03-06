@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             videoSource.src = videoSrc;
             modalVideo.load();
             modal.style.display = 'flex';
+            modalVideo.play(); // Automatically play the video
         });
     });
 

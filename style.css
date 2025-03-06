@@ -41,8 +41,8 @@ body {
 .modal video {
     margin: auto;
     display: block;
-    max-width: 98%; /* Increased from 95% to 98% */
-    max-height: 98%; /* Increased from 95% to 98% */
+    max-width: 95%; /* Set to 95% to make it a bit smaller */
+    max-height: 95%; /* Set to 95% to make it a bit smaller */
 }
 .close {
     position: absolute;
